@@ -1,1 +1,1 @@
-# shopsy
+# shopsy using react and tailwind css
